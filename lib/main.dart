@@ -13,7 +13,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
           home: Scaffold(
         body: Container(
-          child: Center(child: Text('Hello Ubuntu'))
+          child: Center(child: Text('Hello People'))
         ),
       ),
     );
