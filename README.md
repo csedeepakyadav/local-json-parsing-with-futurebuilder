@@ -1,16 +1,15 @@
-# futurebuilder
+# Local JSON Parsing with futurebuilder using Provider
 
-A new Flutter project.
+ - Load local JSON file.
+ - Setup Provider.
+ - Load JSON data in provider using future in model class.
+ - Retrive data using futurebuilder in UI.
+ - Send Data to other Screen.
+ 
+ <br>
+ <br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+ 
+ 
+![json](https://user-images.githubusercontent.com/22419021/76164851-1f75b900-6178-11ea-84e2-d8bbf258d5f1.png)
